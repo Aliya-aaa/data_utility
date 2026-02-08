@@ -1,0 +1,4 @@
+1;Apple;10.5
+2;Orange;7.2
+3;;abc
+4;Banana;12.1
